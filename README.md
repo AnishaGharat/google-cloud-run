@@ -1,11 +1,11 @@
 # google-cloud-app-engine
-To deploy CI/CD on App Engine
+To deploy CI/CD on Cloud Run
 
 ---
 
 ### List of steps
 
-The pipeline is deployed on _Google App Engine(Flex)_ for deployment. CI/CD is 
+The pipeline is deployed on _Google Cloud Run_ for deployment. CI/CD is 
 The application uses the following resources on Google Cloud Platform:
 
 The application uses the following resources on Google Cloud Platform:
