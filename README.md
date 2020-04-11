@@ -10,7 +10,7 @@ The application uses the following resources on Google Cloud Platform:
 
 The application uses the following resources on Google Cloud Platform:
 
-1) App Engine (Flexible)
+1) Cloud Run
 
 2) Cloud Build
 
